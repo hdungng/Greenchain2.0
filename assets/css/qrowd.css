@@ -24,11 +24,11 @@
   --qrowd-gray-rgb: 110, 122, 122;
   --qrowd-white: #ffffff;
   --qrowd-white-rgb: 255, 255, 255;
-  --qrowd-base: #fe7f4c;
+  --qrowd-base: #47D096;
   --qrowd-base-rgb: 254, 127, 76;
   --qrowd-black: #1e3737;
   --qrowd-black-rgb: 30, 55, 55;
-  --qrowd-primary: #07847f;
+  --qrowd-primary: #1e3737;
   --qrowd-primary-rgb: 7, 132, 127;
   --qrowd-extra: #f2f7f7;
   --qrowd-extra-rgb: 242, 247, 247;
@@ -3082,7 +3082,7 @@ ul {
   position: relative;
   display: inline-block;
   font-size: 65px;
-  color: #fd7e46;
+  color: #47D096;
   -webkit-transition: all 500ms linear;
   transition: all 500ms linear;
   -webkit-transition-delay: 0.1s;
@@ -6640,7 +6640,7 @@ ul {
   position: relative;
   display: inline-block;
   font-size: 65px;
-  color: #fd7e46;
+  color: #47D096;
   -webkit-transition: all 500ms linear;
   transition: all 500ms linear;
   -webkit-transition-delay: 0.1s;
