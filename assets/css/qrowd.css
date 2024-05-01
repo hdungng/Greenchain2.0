@@ -12956,3 +12956,9 @@ body.boxed-wrapper {
     gap: 20px;
   }
 }
+
+/* My Custom CSS */
+.logo-footer {
+  width: 208px;
+  filter: brightness(500%);
+}
